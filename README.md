@@ -55,11 +55,3 @@ Material desenvolvido pelo Prof. Eng. Cristiano de Paula - (https://github.com/P
 ## 📄 Licença
 
 Este projeto está sob licença MIT.
-
----
-
-<div align="center text-light">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"  width="60" />
-</div>
