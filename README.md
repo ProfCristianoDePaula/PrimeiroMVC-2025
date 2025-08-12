@@ -1,4 +1,4 @@
-# PrimeiroMVC# 🚀 PrimeiroMVC
+# 🚀 PrimeiroMVC
 
 Bem-vindo ao **PrimeiroMVC**!  
 Este projeto é um exemplo prático de aplicação ASP.NET Core MVC para iniciantes.
